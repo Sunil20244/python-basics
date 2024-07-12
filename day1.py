@@ -7,3 +7,8 @@ x=20
 y=20
 z=(x-y)
 print(z)
+p=1000
+t=12
+r=3
+z=(p*t*r/100)
+print(z)
